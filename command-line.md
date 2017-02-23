@@ -13,7 +13,6 @@ cd..
 Leave the folder that I am currently in and go up one level in the path of folders.
 
 cp readme.txt NewReadMe.txt
-
 Copy the readme.txt file and create a new file with the same contents called NewReadMe.txt
 
 cat readme.txt
@@ -27,3 +26,6 @@ List out the names of all the files that are in the folder that I am currently i
 
 man ls
 Tell me about the command 'ls' and how I can use that command.
+
+mv orange.txt Documents/
+Cut the file 'orange.txt and paste it into the Documents folder.
